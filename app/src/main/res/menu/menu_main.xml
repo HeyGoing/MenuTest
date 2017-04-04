@@ -4,7 +4,8 @@
 		  android:icon="@drawable/font">
 		<menu>
 			<!-- 定义一组单选菜单项 -->
-			<group android:checkableBehavior="single">
+			<!--<group android:checkableBehavior="single">-->
+			<group>
 				<!-- 定义多个菜单项 -->
 				<item
 					android:id="@+id/font_10"
